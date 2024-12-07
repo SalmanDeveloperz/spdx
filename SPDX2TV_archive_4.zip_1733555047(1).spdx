@@ -1,0 +1,72 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://Dev/repo/SPDX2TV_archive_4.zip_1733555047.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-
+Creator: Person: fossy (y)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-12-07T07:04:07Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: archive_4.zip
+PackageFileName: archive_4.zip
+SPDXID: SPDXRef-upload4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 95db6bf710193de5e8cd522f104bb94d5c19da39
+PackageChecksum: SHA1: d49256f0475290a042a28f478ce7d679084df4dd
+PackageChecksum: SHA256: d2cda17674dcf8df38e86846218be2e273bf9afaf2f4e6953fb2c9e23b618b8f
+PackageChecksum: MD5: 7af150cc29cd1e111360cc59745d3472
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("".7c0714)
+ - monk ("".7c0714)
+ - ojo ("".7c0714)
+ - scancode ("".7c0714)
+ - reso (.7c0714) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload4
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: archive_4.zip/StudentGradesAndPrograms.csv
+SPDXID: SPDXRef-item7
+FileChecksum: SHA1: af9425c755006d8a605d1b86c6f54275f8c5b128
+FileChecksum: SHA256: f47377742bbce56cf1a956538c540511c8e3c1c7a74de13425bd7e399913992e
+FileChecksum: MD5: a8f52b024a3495418a72ac7e74ca673f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
